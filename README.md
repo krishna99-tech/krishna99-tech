@@ -47,7 +47,7 @@ I also use **AI tools** to code smarter and faster — not to replace my thinkin
 
 - GitHub: [@krishna](https://github.com/krishna99-tech)
 - Twitter: [@krishna](https://twitter.com/V_krishna9985)
-- Email: electrogadgedc.com
+- Email: electrogadgedc@gmail.com
 
 ---
 
