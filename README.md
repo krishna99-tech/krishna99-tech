@@ -1,15 +1,55 @@
-<!--- 🌟 KRISHNA'S PROFILE 🌟 --->
-<div align="center">
-  
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Venkata+Krishna;🚀+Student+%7C+Developer;💡+AI-Augmented+Engineer;🌐+Web+%7C+Networking+%7C+Cloud;⚡+Building+the+future+with+code" alt="Typing SVG" />
+# 👋 Hi, I'm Venkata Krishna
 
-</div>
+## 🧑‍💻 About Me
+
+I'm a **student** and **developer** who loves building things that live at the intersection of hardware and software. I'm passionate about **web applications**, **networking**, **embedded systems**, **cloud platforms**, and **machine learning algorithms**.
+
+I also use **AI tools** to code smarter and faster — not to replace my thinking, but to amplify it.
 
 ---
 
-<div align="center">
-  
-```diff
-+ ╔═══════════════════════════════════════════════════════════════╗
-+ ║                    🧑‍💻 ABOUT ME 🧑‍💻                          ║
-+ ╚═══════════════════════════════════════════════════════════════╝
+## 🔧 What I Work With
+
+**Languages:** Python, JavaScript, Kotlin, Dart, C, HTML, CSS
+
+**Frameworks & Tools:** React, React Native, Flutter, Node.js, AWS, MongoDB, SQL, Git, GitHub, Vercel, Postman, VS Code, Android Studio, Arduino IDE
+
+**Domains:** Networking, IIoT, Embedded Systems, Web Development, Cloud Computing, ML Algorithms
+
+**OS:** CentOS, Linux
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced AWS services (Lambda, API Gateway, DynamoDB, EC2, Amplify)
+- Deploying ML models for learning
+- Building real-time IIoT applications
+- Scaling web applications
+- Exploring Cloud platforms 
+
+---
+
+## 🤖 My AI Coding Stack
+
+- GitHub Copilot
+- ChatGPT
+- Claude
+- Codeium
+- Gemini
+- Deepseek
+
+> *"AI doesn't write my code — it helps me write better code."*
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: [@krishna](https://github.com/krishna99-tech)
+- Twitter: [@krishna](https://twitter.com/V_krishna9985)
+- Email: electrogadgedc.com
+
+---
+
+
+
