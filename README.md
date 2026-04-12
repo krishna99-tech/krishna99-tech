@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Krishna
+# 👋 Hi, I'm Venkata Krishna
 
 ## 🧑‍💻 About Me
 
@@ -22,10 +22,11 @@ I also use **AI tools** to code smarter and faster — not to replace my thinkin
 
 ## 🌱 Currently Learning
 
-- Advanced AWS services (Lambda, API Gateway, DynamoDB)
-- Deploying ML models to production
+- Advanced AWS services (Lambda, API Gateway, DynamoDB, EC2, Amplify)
+- Deploying ML models for learning
 - Building real-time IIoT applications
 - Scaling web applications
+- Exploring Cloud platforms 
 
 ---
 
@@ -35,6 +36,8 @@ I also use **AI tools** to code smarter and faster — not to replace my thinkin
 - ChatGPT
 - Claude
 - Codeium
+- Gemini
+- Deepseek
 
 > *"AI doesn't write my code — it helps me write better code."*
 
@@ -42,18 +45,11 @@ I also use **AI tools** to code smarter and faster — not to replace my thinkin
 
 ## 📫 Connect With Me
 
-- GitHub: [@krishna](https://github.com/krishna)
-- LinkedIn: [krishna](https://linkedin.com/in/krishna)
-- Twitter: [@krishna](https://twitter.com/krishna)
-- Email: krishna@example.com
+- GitHub: [@krishna](https://github.com/krishna99-tech)
+- Twitter: [@krishna](https://twitter.com/V_krishna9985)
+- Email: electrogadgedc.com
 
 ---
 
-## 📊 GitHub Stats
 
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishna&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna&layout=compact&theme=dark)
-
----
 
